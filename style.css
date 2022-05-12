@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;0,900;1,400&family=Poppins:wght@400;500;700&display=swap');
+
+
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    font-size: 14px;
+    line-height:21px;
+    letter-spacing: 0.88px;
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.header-itens{
+    margin-right: 32px;
+    cursor: pointer;
+    color: #17233D; 
+    margin-right: 32px;
+}
+
+.botao-signup {
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #6FBF44;
+    border-radius: 6px;
+    border:1px solid #4CB538;
+    height: 51px;
+    width: 124px;
+    
+    
+}
+
+
+img {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+}
+
+.texto {
+    display: inline-block;
+    margin-left: 84px;
+    width:493px;
+}
+
+p {
+    font-size: 18px;
+    line-height:33px;
+    width:493px;
+    height: 99px;
+    color: #4B505A;
+    margin-top: 47px;   
+    margin-bottom: 55px;
+}
+
+h1 {
+    color:  #161A49;
+    font-size: 62px;
+    line-height: 82px;
+    width: 582px;
+    height: 164px;
+   
+  
+}
+
+
+.learn {
+    color:#6FBF44;
+    width:  112px;
+    height:  27px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 27px
+}
+
+@media screen and (max-width: 400px) {
+  
+}
